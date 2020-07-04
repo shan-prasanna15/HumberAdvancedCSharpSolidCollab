@@ -138,7 +138,7 @@ namespace SolidRefactoring
 	}
 
 
-	internal class Battery : IComponent
+    internal class Battery : IComponent
 	{
 		public string doWork()
 		{
